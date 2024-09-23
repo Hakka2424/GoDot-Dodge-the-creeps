@@ -16,7 +16,7 @@ Purpose: To match the new space-themed background, the enemies may become meteor
 Modification: Reduced the volume of the game’s background music and the death sound.
 Purpose: The original sound was too loud, so adjusting the volume improves the player's experience by making it less overwhelming while playing.
 5. UI Update - Health System (In Progress)
-Modification: Added a 3-heart UI to represent player health.
+Modification: Added a 3-heart UI to represent player health and added "timer" for score.
 Purpose: The hearts will serve as a visual indicator of the player's remaining health. However, the health mechanic is not yet fully implemented. The player currently cannot lose or regain hearts based on gameplay, but this is a work in progress.
 Known Issues / To-Do:
 Health Mechanic: The 3-heart health system UI is present, but the functionality to track and reduce health based on damage (collisions with enemies) still needs to be implemented.
